@@ -429,3 +429,17 @@
 // }
 
 // ***********************************************************
+// ======= REMOVE OBJECT BY ID ========
+// const objects = [
+//   { id: "111", name: "frontend" },
+//   { id: "421", name: "backtend" },
+//   { id: "754", name: "full stack" },
+// ];
+// const deleteObject = (arr, id) => {
+//   let newObject = arr.filter((obj) => {
+//     return obj.id != id;
+//   });
+//   return newObject;
+// };
+// deleteObject(objects, 754);
+//*************************************************************
